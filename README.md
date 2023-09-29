@@ -1,2 +1,2 @@
 # lstm-prelims
-Few preliminaries of LSTM model for personal guidance
+Few preliminaries of LSTM lerning model for personal guidance
